@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Stephen Curry",
+    "text": "Golden State Warriors",
+    "url": "https://avatars.mds.yandex.net/get-images-cbir/1571103/ZDsGBTLY3PVGWOBRSnLnJQ4283/ocr"
+  },
+  {
+    "name": "Lebron James",
+    "text": "Los Angeles Lakers",
+    "url": "https://sportishka.com/uploads/posts/2022-09/thumbs/1663185526_2-sportishka-com-p-lebron-dzheims-3.jpg"
+  },
+  {
+    "name": "Kevin Durant",
+    "text": "Phoenix Suns",
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/230309084607-kevin-durant-file-030323.jpg?c=original"
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "text": "Milwakee Bucks",
+    "url": "http://res.cloudinary.com/ybmedia/image/upload/c_crop,h_720,w_1280,x_354,y_62/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/b/e/beaf4097938a241121764f8936c67d1fa9c9fb28/giannis-antetokounmpo-makes-mvp-statement-against.jpg"
+  },
+  {
+    "name": "Luka Doncic",
+    "text": "Dallas Mavericks",
+    "url": "https://e0.365dm.com/19/11/2048x1152/skysports-luka-doncic-mavericks_4825991.jpg?20191104071310"
+  }
+]
